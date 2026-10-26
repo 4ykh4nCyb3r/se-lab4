@@ -1,0 +1,4 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # fires one
+TORPEDO,SINGLE  # fires the other one
+TORPEDO,SINGLE  # nothing left

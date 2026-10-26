@@ -1,0 +1,3 @@
+GT4500,1,0,1,0
+TORPEDO,ALL     # both fire
+TORPEDO,ALL     # both are now empty
